@@ -14,4 +14,6 @@ To run this code locally:
 
 * Run `bundle exec rake db:migrate` to migrate the database and update the schema
 
+* Rename the `config/application_example.yml` file to `config/application.yml`
+
 * Run `rails s` to run the server

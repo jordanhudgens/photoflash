@@ -1,0 +1,6 @@
+AWS_ACCESS_KEY_ID: "AKIAI7OQ6KGFWX27DKKQ"
+AWS_SECRET_ACCESS_KEY: "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"
+development:
+  AWS_BUCKET: photoflash-development
+production:
+  AWS_BUCKET: photoflash-production
